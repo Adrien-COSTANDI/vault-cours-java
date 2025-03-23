@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "8269479acd2763cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e2d89a6c0f12742",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08930498015bf0ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cours/8. Opérateurs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8. Opérateurs"
+            }
+          },
+          {
+            "id": "ede2e1e009a6e817",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cours/9. Expression vs instruction (statement).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9. Expression vs instruction (statement)"
+            }
+          },
+          {
+            "id": "db46f4014e9c6b22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cours/4. Hello World!.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Hello World!"
+            }
+          },
+          {
+            "id": "32c502d6de30fd27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cours/4. Hello World!.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Hello World!"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab3d0bdc381b388b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7f20f7a2117df76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d24fa79bda77d8a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "885b6f497a5f573f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "ab902c77e09688ac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265.5
+  },
+  "right": {
+    "id": "940d8a37e3c9f045",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b971cc69214e366",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93629f6e7d3aee2f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cours/7. Notions de base.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour 7. Notions de base"
+            }
+          },
+          {
+            "id": "9ab9498840f13539",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Zéparti.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de Zéparti"
+            }
+          },
+          {
+            "id": "4e673d0040d9f0cd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "cours/10. if, switch-case.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de 10. if, switch-case"
+            }
+          },
+          {
+            "id": "a779d9963fdefd95",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "6965b6a629a42f6c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "32c502d6de30fd27",
+  "lastOpenFiles": [
+    "cours/10. if, switch-case.md",
+    "cours/1. Java.md",
+    "Zéparti.md",
+    "cours/9. Expression vs instruction (statement).md",
+    "cours/4. Hello World!.md",
+    "cours/8. Opérateurs.md",
+    "cours/6. Syntaxe.md",
+    "cours/7. Variables.md",
+    "cours/2. JRE ou JDK.md",
+    "cours/3. Installer un IDE.md",
+    "cours/5. Structure d'un programme.md",
+    "7.Variables.md",
+    "Variables.md",
+    "images/Pasted image 20250318145708.png",
+    "images/Pasted image 20250318145625.png",
+    "images/Pasted image 20250318144822.png",
+    "images/Pasted image 20250318144040.png",
+    "images/Pasted image 20250318144019.png",
+    "Pasted image 20250318144036.png",
+    "images/Pasted image 20250318142711.png",
+    "images/Pasted image 20250318143754.png",
+    "images/Pasted image 20250318142025.png",
+    "images/Pasted image 20250318142538.png",
+    "Le Vert.md",
+    "Sans titre 1.md",
+    "().md",
+    "cours.md",
+    "images",
+    "Eclipse.md",
+    "JDK/JRE.md",
+    "JDK",
+    "cours",
+    "bite.md",
+    "Bienvenue.md",
+    "Sans titre.canvas",
+    "créez un lien.md"
+  ]
+}
