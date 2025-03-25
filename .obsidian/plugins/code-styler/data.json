@@ -9,8 +9,8 @@
           "curvature": 4
         },
         "gutter": {
-          "highlight": true,
-          "activeLine": false
+          "highlight": false,
+          "activeLine": true
         },
         "header": {
           "title": {
@@ -19,13 +19,13 @@
             "textItalic": true
           },
           "languageTag": {
-            "display": "none",
+            "display": "always",
             "textFont": "",
             "textBold": true,
             "textItalic": false
           },
           "languageIcon": {
-            "display": "none",
+            "display": "always",
             "displayColour": true
           },
           "externalReference": {
@@ -54,7 +54,7 @@
           "gradientHighlights": false,
           "gradientHighlightsColourStop": "70%",
           "languageBorderColour": false,
-          "languageBorderWidth": 5,
+          "languageBorderWidth": 2,
           "iconSize": 28
         }
       },
@@ -293,9 +293,156 @@
           }
         }
       }
+    },
+    "intellij": {
+      "settings": {
+        "codeblock": {
+          "lineNumbers": true,
+          "unwrapLines": true,
+          "wrapLinesActive": false,
+          "curvature": 4
+        },
+        "gutter": {
+          "highlight": false,
+          "activeLine": true
+        },
+        "header": {
+          "title": {
+            "textFont": "",
+            "textBold": false,
+            "textItalic": true
+          },
+          "languageTag": {
+            "display": "always",
+            "textFont": "",
+            "textBold": true,
+            "textItalic": false
+          },
+          "languageIcon": {
+            "display": "always",
+            "displayColour": true
+          },
+          "externalReference": {
+            "displayRepository": true,
+            "displayVersion": true,
+            "displayTimestamp": true
+          },
+          "fontSize": 14,
+          "foldPlaceholder": ""
+        },
+        "highlights": {
+          "activeCodeblockLine": false,
+          "activeEditorLine": false
+        },
+        "inline": {
+          "syntaxHighlight": true,
+          "style": true,
+          "fontWeight": 4,
+          "curvature": 6,
+          "paddingVertical": 5,
+          "paddingHorizontal": 5,
+          "marginHorizontal": 0,
+          "titleFontWeight": 8
+        },
+        "advanced": {
+          "gradientHighlights": false,
+          "gradientHighlightsColourStop": "70%",
+          "languageBorderColour": false,
+          "languageBorderWidth": 2,
+          "iconSize": 28
+        }
+      },
+      "colours": {
+        "light": {
+          "codeblock": {
+            "backgroundColour": "--code-background",
+            "textColour": "--code-normal"
+          },
+          "gutter": {
+            "backgroundColour": "--code-background",
+            "textColour": "--text-faint",
+            "activeTextColour": "--text-muted"
+          },
+          "header": {
+            "backgroundColour": "--code-background",
+            "title": {
+              "textColour": "--code-comment"
+            },
+            "languageTag": {
+              "backgroundColour": "--code-background",
+              "textColour": "--code-comment"
+            },
+            "externalReference": {
+              "displayRepositoryColour": "#00FFFF",
+              "displayVersionColour": "#FF00FF",
+              "displayTimestampColour": "#808080"
+            },
+            "lineColour": "--color-base-30"
+          },
+          "highlights": {
+            "activeCodeblockLineColour": "--color-base-30",
+            "activeEditorLineColour": "--color-base-20",
+            "defaultColour": "--text-highlight-bg",
+            "alternativeHighlights": {}
+          },
+          "inline": {
+            "backgroundColour": "--code-background",
+            "textColour": "--code-normal",
+            "activeTextColour": "--code-normal",
+            "titleTextColour": "--code-comment"
+          },
+          "advanced": {
+            "buttonColour": "--text-muted",
+            "buttonActiveColour": "--text-normal"
+          }
+        },
+        "dark": {
+          "codeblock": {
+            "backgroundColour": "--code-background",
+            "textColour": "--code-normal"
+          },
+          "gutter": {
+            "backgroundColour": "--code-background",
+            "textColour": "--text-faint",
+            "activeTextColour": "--text-muted"
+          },
+          "header": {
+            "backgroundColour": "--code-background",
+            "title": {
+              "textColour": "--code-comment"
+            },
+            "languageTag": {
+              "backgroundColour": "--code-background",
+              "textColour": "--code-comment"
+            },
+            "externalReference": {
+              "displayRepositoryColour": "#00FFFF",
+              "displayVersionColour": "#FF00FF",
+              "displayTimestampColour": "#808080"
+            },
+            "lineColour": "--color-base-30"
+          },
+          "highlights": {
+            "activeCodeblockLineColour": "--color-base-30",
+            "activeEditorLineColour": "--color-base-20",
+            "defaultColour": "--text-highlight-bg",
+            "alternativeHighlights": {}
+          },
+          "inline": {
+            "backgroundColour": "--code-background",
+            "textColour": "--code-normal",
+            "activeTextColour": "--code-normal",
+            "titleTextColour": "--code-comment"
+          },
+          "advanced": {
+            "buttonColour": "--text-muted",
+            "buttonActiveColour": "--text-normal"
+          }
+        }
+      }
     }
   },
-  "selectedTheme": "Default",
+  "selectedTheme": "intellij",
   "currentTheme": {
     "settings": {
       "codeblock": {
@@ -333,7 +480,7 @@
         "foldPlaceholder": ""
       },
       "highlights": {
-        "activeCodeblockLine": false,
+        "activeCodeblockLine": true,
         "activeEditorLine": false
       },
       "inline": {
@@ -357,22 +504,22 @@
     "colours": {
       "light": {
         "codeblock": {
-          "backgroundColour": "--code-background",
+          "backgroundColour": "#F5F5F5",
           "textColour": "--code-normal"
         },
         "gutter": {
-          "backgroundColour": "--code-background",
+          "backgroundColour": "#F0F0F0",
           "textColour": "--text-faint",
           "activeTextColour": "--text-muted"
         },
         "header": {
-          "backgroundColour": "--code-background",
+          "backgroundColour": "#F5F5F5",
           "title": {
             "textColour": "--code-comment"
           },
           "languageTag": {
-            "backgroundColour": "--code-background",
-            "textColour": "--code-comment"
+            "backgroundColour": "#F5F5F5",
+            "textColour": "#908E8E"
           },
           "externalReference": {
             "displayRepositoryColour": "#00FFFF",
@@ -382,13 +529,13 @@
           "lineColour": "--color-base-30"
         },
         "highlights": {
-          "activeCodeblockLineColour": "--color-base-30",
+          "activeCodeblockLineColour": "#D5D4D4",
           "activeEditorLineColour": "--color-base-20",
           "defaultColour": "--text-highlight-bg",
           "alternativeHighlights": {}
         },
         "inline": {
-          "backgroundColour": "--code-background",
+          "backgroundColour": "#F5F5F5",
           "textColour": "--code-normal",
           "activeTextColour": "--code-normal",
           "titleTextColour": "--code-comment"
