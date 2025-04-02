@@ -23,11 +23,20 @@ Amusez vous bien !
 [[7. Variables]]
 [[8. Opérateurs]]
 [[9. Expression vs instruction (statement)]]
-[[10. if, switch-case|9. Les conditions]]
- [[11. for, while|10. Les boucles]]
+[[10. if, switch-case|10. Les conditions]]
+[[11. for, while, do while|11. Les boucles]]
+
+11.5 diapo recap
+
 12\. Fonctions (?)
 
 Un peu de théorie avec JVM, GC, JIT, compilation, exécution...
 
 Compilation/JVM
 Programmation Orientée Objet
+
+Jupyter notebook pour java ? https://github.com/forax/java-guide
+
+![d|100x145](reflechir.mp4)
+
+
