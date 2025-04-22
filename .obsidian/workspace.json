@@ -8,21 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dcb50a30f32b318a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cours/6. Syntaxe.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6. Syntaxe"
-            }
-          },
-          {
-            "id": "071616a6d4467e2b",
+            "id": "c1d1713a2760979b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,21 +22,21 @@
             }
           },
           {
-            "id": "da9cf0e066d7a75b",
+            "id": "4d870ec06c85ec33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cours/4. Hello World!.md",
+                "file": "cours/14. Les tableaux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Hello World!"
+              "title": "14. Les tableaux"
             }
           },
           {
-            "id": "fa8b45b0405b5d4c",
+            "id": "59eae89790010780",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,17 +50,31 @@
             }
           },
           {
+            "id": "7a6e006b41e923ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cours/10. if, switch-case.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10. if, switch-case"
+            }
+          },
+          {
             "id": "12919d31cabd1398",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cours/1. Java.md",
+                "file": "cours/4. Hello World!.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Java"
+              "title": "4. Hello World!"
             }
           }
         ],
@@ -110,8 +110,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"par ce\"",
-                "matchingCase": false,
+                "query": "new",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -131,12 +131,11 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 306.5
   },
   "right": {
     "id": "940d8a37e3c9f045",
@@ -171,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cours/4. Hello World!.md",
+                "file": "cours/13. Les objets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de 4. Hello World!"
+              "title": "Liens sortants de 13. Les objets"
             }
           },
           {
@@ -185,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cours/4. Hello World!.md",
+                "file": "cours/12. Les objets.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de 4. Hello World!"
+              "title": "Plan de 12. Les objets"
             }
           },
           {
@@ -224,7 +223,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 354.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,30 +237,35 @@
   },
   "active": "a779d9963fdefd95",
   "lastOpenFiles": [
+    "cours/7. Variables.md",
+    "index.md",
     "cours/12. Les objets.md",
-    "cours/11. for, while, do while.md",
+    "cours/11.5. Les méthodes.md",
+    "cours/13. Les collections.md",
+    "cours/14. Les tableaux.md",
     "cours/10. if, switch-case.md",
+    "cours/1.5. Fonctionnement de Java.md",
+    "cours/11. for, while, do while.md",
     "cours/9. Expression vs instruction (statement).md",
     "cours/8. Opérateurs.md",
-    "cours/7. Variables.md",
     "cours/6. Syntaxe.md",
     "cours/5. Structure d'un programme.md",
     "cours/4. Hello World!.md",
     "cours/3. Installer un IDE.md",
-    "cours/1.5 Fonctionnement de Java.md",
+    "cours/2. JRE ou JDK.md",
     "cours/1. Java.md",
     "cours/0. Zéparti.md",
+    "images/Pasted image 20250421101825.png",
+    "Sans titre",
+    "Pasted image 20250408223321.png",
+    "images/Pasted image 20250407140926.png",
     "Pasted image 20250407140935.png",
-    "Pasted image 20250407140926.png",
     "Pasted image 20250407140753.png",
     "images/Pasted image 20250318142025.png",
     "images/Pasted image 20250318135225.png",
     "images/Pasted image 20250315230525.png",
     "images/newJavaClass.png",
     "images/Pasted image 20250318143754.png",
-    "Pasted image 20250407124416.png",
-    "images/Pasted image 20250318145625.png",
-    "cours/2. JRE ou JDK.md",
     "reflechir.mp4",
     "Sans titre.canvas",
     "7.Variables.md",
@@ -274,9 +278,6 @@
     "Eclipse.md",
     "JDK/JRE.md",
     "JDK",
-    "cours",
-    "bite.md",
-    "Bienvenue.md",
-    "créez un lien.md"
+    "cours"
   ]
 }

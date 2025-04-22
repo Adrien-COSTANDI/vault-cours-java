@@ -4,5 +4,6 @@
   "tabSize": 2,
   "showLineNumber": false,
   "autoPairMarkdown": true,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "readableLineLength": false
 }
