@@ -9,8 +9,8 @@
   "tag-pane": true,
   "properties": false,
   "page-preview": true,
-  "daily-notes": false,
-  "templates": false,
+  "daily-notes": true,
+  "templates": true,
   "note-composer": true,
   "command-palette": true,
   "slash-command": false,
@@ -27,5 +27,7 @@
   "file-recovery": true,
   "publish": false,
   "sync": true,
-  "webviewer": false
+  "webviewer": false,
+  "footnotes": false,
+  "bases": true
 }

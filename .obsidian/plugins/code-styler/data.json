@@ -300,7 +300,7 @@
           "lineNumbers": true,
           "unwrapLines": true,
           "wrapLinesActive": false,
-          "curvature": 4
+          "curvature": 6
         },
         "gutter": {
           "highlight": false,
@@ -331,16 +331,16 @@
           "foldPlaceholder": ""
         },
         "highlights": {
-          "activeCodeblockLine": false,
+          "activeCodeblockLine": true,
           "activeEditorLine": false
         },
         "inline": {
           "syntaxHighlight": true,
           "style": true,
-          "fontWeight": 4,
+          "fontWeight": 5,
           "curvature": 6,
-          "paddingVertical": 5,
-          "paddingHorizontal": 5,
+          "paddingVertical": 4,
+          "paddingHorizontal": 4,
           "marginHorizontal": 0,
           "titleFontWeight": 8
         },
@@ -355,22 +355,22 @@
       "colours": {
         "light": {
           "codeblock": {
-            "backgroundColour": "--code-background",
+            "backgroundColour": "#F5F5F5",
             "textColour": "--code-normal"
           },
           "gutter": {
-            "backgroundColour": "--code-background",
+            "backgroundColour": "#F0F0F0",
             "textColour": "--text-faint",
             "activeTextColour": "--text-muted"
           },
           "header": {
-            "backgroundColour": "--code-background",
+            "backgroundColour": "#F5F5F5",
             "title": {
               "textColour": "--code-comment"
             },
             "languageTag": {
-              "backgroundColour": "--code-background",
-              "textColour": "--code-comment"
+              "backgroundColour": "#F5F5F5",
+              "textColour": "#908E8E"
             },
             "externalReference": {
               "displayRepositoryColour": "#00FFFF",
@@ -380,13 +380,13 @@
             "lineColour": "--color-base-30"
           },
           "highlights": {
-            "activeCodeblockLineColour": "--color-base-30",
+            "activeCodeblockLineColour": "#D5D4D4",
             "activeEditorLineColour": "--color-base-20",
             "defaultColour": "--text-highlight-bg",
             "alternativeHighlights": {}
           },
           "inline": {
-            "backgroundColour": "--code-background",
+            "backgroundColour": "#F5F5F5",
             "textColour": "--code-normal",
             "activeTextColour": "--code-normal",
             "titleTextColour": "--code-comment"
@@ -449,7 +449,7 @@
         "lineNumbers": true,
         "unwrapLines": true,
         "wrapLinesActive": false,
-        "curvature": 4
+        "curvature": 6
       },
       "gutter": {
         "highlight": false,
@@ -486,10 +486,10 @@
       "inline": {
         "syntaxHighlight": true,
         "style": true,
-        "fontWeight": 4,
+        "fontWeight": 5,
         "curvature": 6,
-        "paddingVertical": 5,
-        "paddingHorizontal": 5,
+        "paddingVertical": 4,
+        "paddingHorizontal": 4,
         "marginHorizontal": 0,
         "titleFontWeight": 8
       },
@@ -592,9 +592,9 @@
   },
   "newTheme": "",
   "newHighlight": "",
-  "exampleCodeblockParameters": "python title:foo",
-  "exampleCodeblockContent": "print(\"This line is very long and should be used as an example for how the plugin deals with wrapping and unwrapping very long lines given the choice of codeblock parameters and settings.\")\nprint(\"This line is highlighted.\")",
-  "exampleInlineCode": "{python icon title:foo} print(\"This is inline code\")",
+  "exampleCodeblockParameters": "java title:Test.java",
+  "exampleCodeblockContent": "void main() {\n  var toto = new Test(\"coucou\");\n  int a = 3;\n  System.out.println(\"a = \" + a);\n}\n\npublic class Test {\n\n  private final String name;\n\n  public Test(String name) {\n    this.name = name;\n  }\n}",
+  "exampleInlineCode": "{java icon} println(\"This is inline code\")",
   "decoratePrint": true,
   "excludedLanguages": "ad-*, reference",
   "externalReferenceUpdateOnLoad": false,
