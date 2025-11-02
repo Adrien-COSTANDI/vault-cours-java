@@ -6,8 +6,21 @@
 - [x] opérateurs binaires sur 2 types différents ? (int + float = ?)
 - [x] cas spécial de la concaténation de String
 - [x] parler des méthodes
+- [x] parler du return dans les méthodes
+- [x] parler du new pour les constructeurs de classe 
 - [ ] écrire une classe semi-complète, puis l'expliquer, puis ajouter petit à petit des trucs (get, méthodes plus complexes...)
 - [ ] enum
 - [ ] trouver des idées d'exercices
 - [ ] parler des librairies
-- [ ] scope des variables
+- [x] scope des variables
+- [ ] héritage (Object)
+- [ ] interfaces
+
+Un peu de théorie avec JVM, GC, JIT, compilation, exécution...
+
+Programmation Orientée Objet
+
+Jupyter notebook pour java ? https://github.com/forax/java-guide
+
+
+
