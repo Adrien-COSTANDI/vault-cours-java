@@ -11,6 +11,20 @@
             "id": "4cecd84b559b8151",
             "type": "leaf",
             "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "cours/0. Zéparti.md",
+                "bFile": "cours/0. Zéparti.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 0. Zéparti"
+            }
+          },
+          {
+            "id": "4cb6af1953449cf7",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "cours/14. Les objets (Partie 1).md",
@@ -19,6 +33,20 @@
               },
               "icon": "lucide-file",
               "title": "14. Les objets (Partie 1)"
+            }
+          },
+          {
+            "id": "38558ee533653173",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -53,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "println",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 309.5
   },
   "right": {
     "id": "940d8a37e3c9f045",
@@ -94,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cours/14. Les objets (Partie 1).md",
+                "file": "cours/16. Les objets (Partie 2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour 14. Les objets (Partie 1)"
+              "title": "Rétrolien pour 16. Les objets (Partie 2)"
             }
           },
           {
@@ -113,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cours/13. Les objets.md",
+                "file": "cours/16. Les objets (Partie 2).md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de 13. Les objets"
+              "title": "Liens sortants de 16. Les objets (Partie 2)"
             }
           },
           {
@@ -127,13 +155,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cours/14. Les objets (Partie 1).md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de 14. Les objets (Partie 1)"
+              "title": "Plan"
             }
           },
           {
@@ -181,36 +208,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a779d9963fdefd95",
+  "active": "4cecd84b559b8151",
   "lastOpenFiles": [
     "index.md",
-    "cours/16. Les collections.md",
-    "cours/15. Les tableaux.md",
-    "cours/14. Les objets (Partie 1).md",
-    "cours/13. Les méthodes.md",
-    "cours/12. for, while, do while.md",
-    "cours/11. if, switch-case.md",
-    "cours/10. Expression vs instruction (statement).md",
+    "cours/16. Les objets (Partie 2).md",
     "cours/9. Opérateurs.md",
-    "cours/8. Variables.md",
-    "cours/7. Syntaxe.md",
-    "cours/6. Structure d'un programme.md",
-    "cours/5. Hello World!.md",
-    "cours/4. Installer un IDE.md",
-    "cours/2. Fonctionnement de Java.md",
-    "cours/1. Java.md",
     "cours/0. Zéparti.md",
+    "cours/1. Java.md",
+    "cours/2. Fonctionnement de Java.md",
+    "cours/4. Installer un IDE.md",
+    "cours/5. Hello World!.md",
+    "cours/14. Les objets (Partie 1).md",
+    "cours/Sans titre.canvas",
+    "cours/Sans titre.md",
+    "cours/13. Les méthodes.md",
+    "cours/17. Les collections.md",
+    "cours/15. Les tableaux.md",
+    "cours/7. Syntaxe.md",
+    "cours/8. Variables.md",
+    "cours/11. if, switch-case.md",
+    "cours/12. Les objets.md",
+    "12. Les objets.md",
+    "images/Pasted image 20251111170344.png",
+    "images/Pasted image 20251003180307.png",
+    "images/Pasted image 20251101102924.png",
+    "Pasted image 20251111170206.png",
+    "images/Pasted image 20251111170239.png",
+    "cours/12. for, while, do while.md",
+    "cours/10. Expression vs instruction (statement).md",
+    "cours/6. Structure d'un programme.md",
     "cours/3. JRE ou JDK.md",
     "images/emptyEditor.gif",
     "images/Pasted image 20251003165941.png",
     "images/Pasted image 20250421101825.png",
     "images/Pasted image 20250407112912.png",
     "images/Pasted image 20250407140926.png",
-    "images/Pasted image 20250402142717.png",
-    "images/Pasted image 20250402200346.png",
-    "images/Pasted image 20250402184645.png",
-    "images/Pasted image 20250402184613.png",
-    "images/Pasted image 20250402183544.png",
     "Sans titre.base",
     "cours/Sans titre.base",
     "Sans titre",
@@ -219,11 +251,7 @@
     "7.Variables.md",
     "Variables.md",
     "Le Vert.md",
-    "Sans titre 1.md",
-    "().md",
-    "cours.md",
     "images",
-    "Eclipse.md",
     "JDK",
     "cours"
   ]
